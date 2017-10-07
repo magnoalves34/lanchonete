@@ -1,0 +1,16 @@
+.mejs-controls .mejs-show-playlist button{background:transparent url(controls-playlist.png) no-repeat;}
+.mejs-controls .mejs-hide-playlist button{background:transparent url(controls-playlist.png) no-repeat;}
+.mejs-controls .mejs-prevtrack button{background:transparent url(../icon/Backward.svg) no-repeat;}
+.mejs-controls .mejs-nexttrack button{background:transparent url(../icon/Forward.svg) no-repeat;}
+.mejs-controls .mejs-shuffle-on button{background:transparent url(../icon/shuffle_off.svg) no-repeat;}
+.mejs-controls .mejs-shuffle-off button{background:transparent url(../icon/shuffle.svg) no-repeat;}
+.mejs-button.mejs-playpause-button.mejs-play button{background:transparent url(../icon/Play.svg) no-repeat;}
+.mejs-button.mejs-playpause-button.mejs-pause button{background:transparent url(../icon/Pause.svg) no-repeat;;}
+.mejs-loop-button.mejs-loop-on button{background:transparent url(../icon/repeat.png) no-repeat;}
+.mejs-loop-button.mejs-loop-off button{background:transparent url(../icon/repeat_off.png) no-repeat;}
+.mejs-button.mejs-volume-button.mejs-mute button{background:transparent url(../icon/Volume.svg) no-repeat;}
+.mejs-button.mejs-volume-button.mejs-unmute button{background:transparent url(../icon/Mute.svg) no-repeat;}
+.mejs-playlist{position:absolute;left:0;overflow-y:auto;background:#000000;}
+.mejs-playlist ul{margin:0;padding:0;list-style:none;}
+.mejs-playlist li{color:#fff;font-weight:100;font-weight:500;font-size:15px;}
+.mejs-playlist li:hover{color:#a8a8a8;}
