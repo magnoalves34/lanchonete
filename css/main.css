@@ -1,20 +1,11 @@
-/*
-Copyright (c) 2016 teqbees.
-------------------------------------------------------------------
-[Main Stylesheet]
-Template Name: Dj Night HTML Template
-Version: 1.0
-Author: teqbees
-Website: http://teqbees.com/
-Purchase: http://themeforest.net/user/teqbees
--------------------------------------------------------------------*/
-/* plugin css Start */
+
+/* plugin css */
 @import url("../js/plugins/slider/swiper.min.css");
 @import url("../js/plugins/carousel/owl.carousel.css");
 @import url("../js/plugins/gallery/magnific-popup.css");
 @import url("../js/plugins/player/css/mediaelementplayer.min.css");
 @import url("../js/plugins/player/css/mep-feature-playlist.css");
-/* plugin css End */
+/* plugin css */
 @import url("fonts.css");
 @import url("bootstrap.css");
 @import url("font-awesome.css");
